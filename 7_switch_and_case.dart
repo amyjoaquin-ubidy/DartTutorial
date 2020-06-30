@@ -8,19 +8,19 @@ void main() {
 	switch (grade) {
 
 		case 'A':
-			print("Excellent grade of A");
+			print("perfect grade of A");
 			break;
 
 		case 'B':
-			print("Very Good !");
+			print("amazing !");
 			break;
 
 		case 'C':
-			print("Good enough. But work hard");
+			print("damn");
 			break;
 
 		case 'F':
-			print("You have failed");
+			print("oh no");
 			break;
 		default:
 			print("Invalid Grade");
